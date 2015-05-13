@@ -1,0 +1,16 @@
+{
+  "name": "create-PDF",
+  "version": "1.0.0",
+  "description": "simple project for creating pdfs using handlebars, html-pdf & dimsum",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "brad@natomis.com",
+  "license": "",
+  "dependencies": {
+    "dimsum": "^0.1.8",
+    "handlebars": "^3.0.3",
+    "html-pdf": "^1.2.0"
+  }
+}
